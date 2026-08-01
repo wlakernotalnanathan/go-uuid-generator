@@ -6,3 +6,5 @@ Generating unique string identifier tokens in Go.
 Clone this project and look at the source files:
 - `main.go`
 - `uuid.go`
+
+*Initialized by wlakernotalnanathan workspace automation.*
